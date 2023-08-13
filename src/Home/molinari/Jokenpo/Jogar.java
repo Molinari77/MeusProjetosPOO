@@ -16,7 +16,7 @@ public class Jogar {
         Scanner scanner = new Scanner(System.in);
         boolean continuar = true;
 
-        if (continuar == true) {
+         if (continuar == true) {
 
             System.out.println("Jogo iniciado");
 

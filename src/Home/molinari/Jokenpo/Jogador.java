@@ -2,7 +2,7 @@ package Home.molinari.Jokenpo;
 
 public class Jogador {
 
-      //atributos
+       //atributos
     private String nome;
     private int idade, vitoria, derrota, numero, empate;
 
