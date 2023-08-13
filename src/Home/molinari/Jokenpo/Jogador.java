@@ -10,7 +10,7 @@ public class Jogador {
       // metodos
 
 
-    public void status(boolean continuar) {
+     public void status(boolean continuar) {
 
         while(continuar){
 
