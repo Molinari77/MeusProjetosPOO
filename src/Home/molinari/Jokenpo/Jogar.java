@@ -21,7 +21,7 @@ public class Jogar {
             System.out.println("Jogo iniciado");
 
 
-               for (int i = 0; i <= 3; i++) {
+                for (int i = 0; i <= 3; i++) {
 
                System.out.println(this.jogador1.getNome()+"Escolha um dos objetos, digitando (1) para pedra, (2) para papel ou (3) para tesoura");
                 int objeto1 = scanner.nextInt();
