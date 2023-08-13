@@ -7,7 +7,7 @@ public class Jogador {
     private int idade, vitoria, derrota, numero, empate;
 
 
-         // metodos
+          // metodos
 
 
      public void status(boolean continuar) {
