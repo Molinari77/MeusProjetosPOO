@@ -71,7 +71,7 @@ public void regra (){
         }else if (objeto1==3 && objeto2==2) {
 
 
-                  System.out.println("-----------------------------------");
+                   System.out.println("-----------------------------------");
                 System.out.println("##### Jogador1, ganhou a luta #####");
                 System.out.println("-----------------------------------");
 

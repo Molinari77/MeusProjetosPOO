@@ -7,7 +7,7 @@ public class Main {
         Jogador jogador2 = new Jogador(2,"leandro Modena", 26,0,0,0);
 
           jogador1.status(true);
-          jogador2.status(false);
+           jogador2.status(false);
 
 
          Jogar Jogo = new Jogar();
