@@ -72,7 +72,7 @@ public void regra (){
 
 
                    System.out.println("-----------------------------------");
-                System.out.println("##### Jogador1, ganhou a luta #####");
+                 System.out.println("##### Jogador1, ganhou a luta #####");
                  System.out.println("-----------------------------------");
 
             this.usuario1.vitoria();
