@@ -14,18 +14,19 @@ public class Jogador {
 
         while (continuar) {
 
-            System.out.println("###### Bem vindos ao jogo JOKENPO ######");
+            System.out.println("\n");
+            System.out.println("###### Bem vindos ao jogo JOKENPO ######\n              ");
 
 
             continuar = false;
 
         }
-        System.out.println("-------------------------------------------");
+
         System.out.println("Jogador" + this.getNumero() + ":" + this.getNome());
         System.out.println("Idade:" + this.getIdade());
         System.out.println("Placar: Vitorias:" + this.getVitoria()+"   Derrotas:"+ this.getDerrota()+"   Empates:"+this.getEmpate());
 
-        System.out.println("-------------------------------------------");
+        System.out.println("\n");
 
 
     }
