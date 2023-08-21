@@ -31,7 +31,7 @@ public class Jogar {
 
                 System.out.println("*** A disputa começou, melhor de 3 partidas ***\n");
 
-                for (int i = 0; i <= 2; i++) {
+                 for (int i = 0; i <= 2; i++) {
 
                     System.out.println("Jogador1, escolha um dos objetos, digitando (1) para pedra, (2) para papel ou (3) para tesoura");
                     objeto1 = scanner.nextInt();
@@ -97,7 +97,7 @@ public class Jogar {
 
         } else {
             System.out.println("\n------------------------------------------");
-            System.out.println("Resultado da partida: Jogador2, ganhou a luta");
+            System.out.println("Resultado da partida: Ganhou o jogador2");
             System.out.println("------------------------------------------\n");
             this.usuario1.derrota();
             this.usuario2.vitoria();

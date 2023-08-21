@@ -4,7 +4,7 @@ public class Jogador {
 
     //atributos
         private String nome;
-     private int idade, vitoria, derrota, numero, empate;
+      private int idade, vitoria, derrota, numero, empate;
 
 
     // metodos
