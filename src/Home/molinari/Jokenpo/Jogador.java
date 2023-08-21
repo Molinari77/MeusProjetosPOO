@@ -12,7 +12,7 @@ public class Jogador {
 
     public void status(boolean continuar) {
 
-        while (continuar) {
+         while (continuar) {
 
             System.out.println("\n");
             System.out.println("###### Bem vindos ao jogo JOKENPO ######\n              ");

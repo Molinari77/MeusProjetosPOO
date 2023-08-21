@@ -41,7 +41,7 @@ public class Jogar {
 
                     regra();
                     usuario1.status(false);
-                    usuario2.status(false);
+                     usuario2.status(false);
 
                 }
             }
